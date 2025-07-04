@@ -38,7 +38,7 @@
 ## 🚀 Setup
 ### Clone & Install
 ```bash
-git clone https://github.com/yourname/client-portal.git
+git clone https://github.com/ahmed-cmyk/client-portal.git
 cd client-portal
 ````
 
@@ -99,4 +99,4 @@ MIT
 
 ## 📬 Contact
 
-Built by [Your Name](https://github.com/ahmed-cmyk) — feel free to reach out!
+Built by [Ahmed Ikram](https://github.com/ahmed-cmyk) — feel free to reach out!
